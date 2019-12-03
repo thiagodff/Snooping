@@ -1,0 +1,15 @@
+C:/Users/Aluno/Desktop/Snooping/StateMachine.v {1 {vlog -work work C:/Users/Aluno/Desktop/Snooping/StateMachine.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module StateMachine
+
+Top level modules:
+	StateMachine
+
+} {} {}} C:/Users/Aluno/Desktop/Snooping/hexto7segment.v {1 {vlog -work work C:/Users/Aluno/Desktop/Snooping/hexto7segment.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hexto7segment
+
+Top level modules:
+	hexto7segment
+
+} {} {}}
