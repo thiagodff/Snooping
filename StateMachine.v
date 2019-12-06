@@ -51,14 +51,14 @@ module StateMachine(clock, state, cdb, listen, newState, emit, dataWB, abortMem)
               6'b000000: //write miss
                 begin
                   newState = 2'b00; //Invalid
-						dataWB = 1;
-						abortMem = 1;
+                  dataWB = 1;
+                  abortMem = 1;
                 end
               6'b000001: //read miss
                 begin
                   newState = 2'b01; //->shared
-						dataWB = 1;
-						abortMem = 1;
+                  dataWB = 1;
+                  abortMem = 1;
                 end
 					6'b100100: //Fetch Invalidate
 					begin 
@@ -123,13 +123,13 @@ module StateMachine(clock, state, cdb, listen, newState, emit, dataWB, abortMem)
               begin
               emit = {6'b000000, 16'b0}; //place write miss
               newState = 2'b10; //->modified
-				  dataWB = 1;
+              dataWB = 1;
+                  end
+              6'b100001: //CPU read miss
+              begin
+              newState = 2'b01; //Shared
+              dataWB = 1;
               end
-				  6'b100001: //CPU read miss
-				  begin
-				  newState = 2'b01; //Shared
-				  dataWB = 1;
-				  end
               6'b100010: //CPU write hit
               begin
               newState = 2'b10; //->modified

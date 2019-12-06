@@ -1,15 +1,43 @@
-C:/Users/Aluno/Desktop/Snooping/StateMachine.v {1 {vlog -work work C:/Users/Aluno/Desktop/Snooping/StateMachine.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+C:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v {1 {vlog -work work -stats=none C:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SnoopingMSI
+
+Top level modules:
+	SnoopingMSI
+
+} {} {}} C:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v {1 {vlog -work work -stats=none C:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module StateMachine
 
 Top level modules:
 	StateMachine
 
-} {} {}} C:/Users/Aluno/Desktop/Snooping/hexto7segment.v {1 {vlog -work work C:/Users/Aluno/Desktop/Snooping/hexto7segment.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+} {} {}} C:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v {1 {vlog -work work -stats=none C:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module hexto7segment
 
 Top level modules:
 	hexto7segment
+
+} {} {}} C:/Users/thiag/Desktop/Snooping/Snooping/Mem.v {1 {vlog -work work -stats=none C:/Users/thiag/Desktop/Snooping/Snooping/Mem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} C:/Users/thiag/Desktop/Snooping/Snooping/cache.v {1 {vlog -work work -stats=none {C:\Users\thiag\Desktop\Snooping\Snooping\cache.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cache
+
+Top level modules:
+	cache
+
+} {} {}} C:/Users/thiag/Desktop/Snooping/Snooping/Core.v {1 {vlog -work work -stats=none C:/Users/thiag/Desktop/Snooping/Snooping/Core.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module processor
+
+Top level modules:
+	processor
 
 } {} {}}

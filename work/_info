@@ -1,64 +1,135 @@
 m255
 K3
+z0
 13
 cModel Technology
-Z0 dC:\altera\13.0sp1
+dC:\altera\13.0sp1
+vcache
+Z0 !s110 1575643505
+!i10b 1
+!s100 i^aM0SHl]6U8bXKGHnRF_2
+IQnRjc6Aj[UMdEThI9_BeR3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/thiag/Desktop/Snooping/Snooping
+w1575640710
+8C:\Users\thiag\Desktop\Snooping\Snooping\cache.v
+FC:\Users\thiag\Desktop\Snooping\Snooping\cache.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1575643505.000000
+!s107 C:\Users\thiag\Desktop\Snooping\Snooping\cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\thiag\Desktop\Snooping\Snooping\cache.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
 vhexto7segment
-Z1 I<Y3LZHP6PacBJzhdiBjo]3
-Z2 V[^UnNES5T[RhzG=R[bH3c0
-Z3 dC:\Users\Aluno\Desktop\Snooping
-Z4 w1574451241
-Z5 8C:/Users/Aluno/Desktop/Snooping/hexto7segment.v
-Z6 FC:/Users/Aluno/Desktop/Snooping/hexto7segment.v
-L0 1
-Z7 OV;L;10.1d;51
-r1
-31
-Z8 o-work work -O0
-Z9 !s100 LTlK?HnMX0aIm0A`^`WY52
-Z10 !s108 1575402561.789000
-Z11 !s107 C:/Users/Aluno/Desktop/Snooping/hexto7segment.v|
-Z12 !s90 -reportprogress|300|-work|work|C:/Users/Aluno/Desktop/Snooping/hexto7segment.v|
+R0
 !i10b 1
+!s100 DW5a3M0iOD]nU;DRnVNnn0
+IdYQ^nP@>2cj>X>Kg^bl4g2
+R1
+R2
+w1575583958
+8C:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v
+FC:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v
+L0 1
+R3
+r1
 !s85 0
+31
+R4
+!s107 C:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/thiag/Desktop/Snooping/Snooping/hexto7segment.v|
 !s101 -O0
+!i113 1
+R5
+vMem
+R0
+!i10b 1
+!s100 QV=Xj4YAP:m?^ELgE@d0=1
+Ihl76B]G46V`fIMJX?XP_D3
+R1
+R2
+w1575626511
+8C:/Users/thiag/Desktop/Snooping/Snooping/Mem.v
+FC:/Users/thiag/Desktop/Snooping/Snooping/Mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/thiag/Desktop/Snooping/Snooping/Mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/thiag/Desktop/Snooping/Snooping/Mem.v|
+!s101 -O0
+!i113 1
+R5
+n@mem
+vprocessor
+R0
+!i10b 1
+!s100 12W0iK42zGbA0eG]EK7od3
+I1oR4X`TmZTc2i3;HAmAlA1
+R1
+R2
+w1575643067
+8C:/Users/thiag/Desktop/Snooping/Snooping/Core.v
+FC:/Users/thiag/Desktop/Snooping/Snooping/Core.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/thiag/Desktop/Snooping/Snooping/Core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/thiag/Desktop/Snooping/Snooping/Core.v|
+!s101 -O0
+!i113 1
+R5
 vSnoopingMSI
-Z13 IMQecL]VWKgD<bA6YMo5NI2
-Z14 V:_^JB_m1SDT=FI?FM1ZeK2
-R3
-R4
-Z15 8C:/Users/Aluno/Desktop/Snooping/SnoopingMSI.v
-Z16 FC:/Users/Aluno/Desktop/Snooping/SnoopingMSI.v
-L0 1
-R7
-r1
-31
-R8
-Z17 n@snooping@m@s@i
+R0
 !i10b 1
-Z18 !s100 BRCzBFijaIKQTF;oSWAYB3
+!s100 mVZZ@XmDlU[_XP[B>XP]T1
+I8_M_[n78;Sl8aYb_5CPP50
+R1
+R2
+w1575643431
+8C:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v
+FC:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v
+L0 1
+R3
+r1
 !s85 0
-Z19 !s108 1575402561.939000
-Z20 !s107 C:/Users/Aluno/Desktop/Snooping/SnoopingMSI.v|
-Z21 !s90 -reportprogress|300|-work|work|C:/Users/Aluno/Desktop/Snooping/SnoopingMSI.v|
+31
+R4
+!s107 C:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/thiag/Desktop/Snooping/Snooping/SnoopingMSI.v|
 !s101 -O0
+!i113 1
+R5
+n@snooping@m@s@i
 vStateMachine
+R0
 !i10b 1
-!s100 D4dZ8c[_SEDn:X;ZnhFD80
-IZ;NML=12Mg^FcU:nkM5a>0
-V=CdaCzN7`1[Vdlhz9LAO82
-R3
-R4
-8C:/Users/Aluno/Desktop/Snooping/StateMachine.v
-FC:/Users/Aluno/Desktop/Snooping/StateMachine.v
+!s100 KhGYkH6PSOHkj<hfjeeU?0
+IQU@m65`HS]kmEj5z<U8i60
+R1
+R2
+w1575631185
+8C:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v
+FC:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v
 L0 1
-R7
+R3
 r1
 !s85 0
 31
-!s108 1575402562.020000
-!s107 C:/Users/Aluno/Desktop/Snooping/StateMachine.v|
-!s90 -reportprogress|300|-work|work|C:/Users/Aluno/Desktop/Snooping/StateMachine.v|
+!s108 1575643504.000000
+!s107 C:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/thiag/Desktop/Snooping/Snooping/StateMachine.v|
 !s101 -O0
-R8
-Z22 n@state@machine
+!i113 1
+R5
+n@state@machine
